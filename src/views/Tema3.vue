@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img1.svg')})`}"
           )
           .bloque-texto-g__texto.p-3
-            p De acuerdo con Tur-Viñes, V. y Monserrat-Gauchi, J. (2014), la finalidad de esta etapa es concretar en planes de acción, ejecutables y acotados en el tiempo, las estrategias planteadas con anterioridad. Una estrategia puede concretarse en diferentes planes de acción y, a su vez, un plan de acción puede formar parte de diferentes estrategias y contribuir a la consecución de varios objetivos. Se ha de determinar un plan de comunicación y su concreción en acciones o campañas concretas de publicidad, relaciones públicas, comunicación on-line, marketing directo, campañas promocionales, publicidad directa, de esponsorización y/o de patrocinio, branded content, etc. Todo ello encaminado a conseguir los objetivos de comunicación previamente definidos. (p. 13).
+            p De acuerdo con la norma ISO 9001:2015, la organización debe realizar un seguimiento, medir el desempeño y la eficacia del sistema de gestión, además de conservar la información documentada a través de evidencias y resultados.
 
 
     .row.my-5
@@ -26,7 +26,7 @@
           p Existen diferentes puntos de vista para definir cuál es la mejor forma de medir la calidad, especialmente cuando se habla de procesos. En organizaciones donde se desarrollan procesos de conversión o fabricación, se suele utilizar un promedio de “defectos por unidades fabricadas”. En las organizaciones dedicadas a la prestación de servicios, la satisfacción del cliente es medida a través de encuestas y puede ser una forma adecuada de medir el Sistema de Gestión de la Calidad, según la norma ISO 9001.
 
     .row.justify-content-center.my-5
-      .col-lg-5(data-aos="fade-up-right")
+      .col-lg-5.mb-3(data-aos="fade-up-right")
         figure
           img(src='@/assets/curso/temas/tema3/img2.svg', alt='')  
       

@@ -172,7 +172,7 @@
       p Algunos aspectos internos para analizar son:
 
     .row.justify-content-center.my-5
-      .col-lg-5
+      .col-lg-5.mb-3
         figure
           img(src='@/assets/curso/temas/tema2/img14.svg', alt='')      
 
@@ -226,7 +226,7 @@
               h2.mb-0.h2-vineta Elección de las estrategias
 
     .row.justify-content-center.my-5
-      .col-lg-5(data-aos="fade-down-right")
+      .col-lg-5.mb-3(data-aos="fade-down-right")
         figure
           img(src='@/assets/curso/temas/tema2/img15.svg', alt='')  
       

@@ -20,7 +20,7 @@
       p Y entre los propósitos y beneficios de estos documentos, se debe tener en cuenta:
 
     .row.justify-content-center.my-5
-      .col-lg-10
+      .col-10.col-lg-10
         .row
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
             .tarjeta--boton.tarjeta-avatar.p-4
@@ -29,7 +29,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img2.svg', alt='Texto que describa la imagen')
 
-              p.text-center.my-5 Proporcionar un marco claro para las operaciones de la organización.
+              p.text-center.my-3 Proporcionar un marco claro para las operaciones de la organización.
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
             .tarjeta--boton.tarjeta-avatar.p-4
@@ -38,7 +38,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img3.svg', alt='Texto que describa la imagen')
 
-              p.text-center.my-5 Proporcionar un marco claro para las operaciones de la organización. Permitir la consistencia de los procesos y una mejor comprensión de la gestión de la calidad del sistema de gestión.
+              p.text-center.my-3 Proporcionar un marco claro para las operaciones de la organización. Permitir la consistencia de los procesos y una mejor comprensión de la gestión de la calidad del sistema de gestión.
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             .tarjeta--boton.tarjeta-avatar.p-4
@@ -47,10 +47,10 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img4.svg', alt='Texto que describa la imagen')
 
-              p.text-center.my-5 Proporcionar evidencia para el logro de objetivos y metas.
+              p.text-center.my-3 Proporcionar evidencia para el logro de objetivos y metas.
 
     .row.justify-content-center.my-5
-      .col-lg-5.my-5(data-aos="flip-left")
+      .col-lg-5.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema1/img5.svg', alt='')
       .col-lg-7
@@ -64,58 +64,58 @@
         .col-lg-6
           .tarjeta--1.p-3
             .row
-              .col-5.col-lg-1.mt-3(data-aos="fade-up-right")
+              .col-5.col-lg-1(data-aos="fade-up-right")
                 figure
                   img(src="@/assets/curso/temas/tema1/img6.svg", alt="alt").img-9-10-11-12-13-tm2
-              .col-lg-11
+              .col-lg-11.mt-4
                 h5 Margen de contribución
                 p Se define como una cantidad que dispone la empresa, a través de ingresos, determinados para cubrir los gastos fijos.
             
           .tarjeta--2.p-3
             .row
-              .col-5.col-lg-1.mt-3(data-aos="fade-up-right")
+              .col-5.col-lg-1(data-aos="fade-up-right")
                 figure
                   img(src="@/assets/curso/temas/tema1/img7.svg", alt="alt").img-9-10-11-12-13-tm2
-              .col-lg-11
+              .col-lg-11.mt-4
                 h5 Trazabilidad
                 p Es la capacidad de investigar todos los procesos, a partir de la adquisición de materias primas, hasta que llegan a la producción, a su consumo y a la eliminación de productos. 
 
           .tarjeta--3.p-3
             .row
-              .col-5.col-lg-1.mt-3(data-aos="fade-up-right")
+              .col-5.col-lg-1(data-aos="fade-up-right")
                 figure
                   img(src="@/assets/curso/temas/tema1/img8.svg", alt="alt").img-9-10-11-12-13-tm2
-              .col-lg-11
+              .col-lg-11.mt-4
                 h5 Facturación
                 p Es el proceso relacionado con la elaboración, registro, envío y  cobro de facturas.
 
           .tarjeta--2.p-3
             .row
-              .col-5.col-lg-1.mt-3(data-aos="fade-up-right")
+              .col-5.col-lg-1(data-aos="fade-up-right")
                 figure
                   img(src="@/assets/curso/temas/tema1/img9.svg", alt="alt").img-9-10-11-12-13-tm2
-              .col-lg-11
+              .col-lg-11.mt-4
                 h5 Suministro
                 p Son las materias primas con las que la empresa trabaja para la fabricación de un bien.
 
           .tarjeta--4.p-3
             .row
-              .col-5.col-lg-1.mt-3(data-aos="fade-up-right")
+              .col-5.col-lg-1(data-aos="fade-up-right")
                 figure
                   img(src="@/assets/curso/temas/tema1/img10.svg", alt="alt").img-9-10-11-12-13-tm2
-              .col-lg-11
+              .col-lg-11.mt-4
                 h5 Flujo de efectivo
                 p Informa sobre las variaciones y los movimientos de efectivo, en un periodo determinado.
 
-        .col-lg-5.my-5(data-aos="fade-up-left")
+        .col-lg-5.mt-5(data-aos="fade-up-left")
           figure
             img(src="@/assets/curso/temas/tema1/img11.svg", alt="alt")          
 
-    .row.my-5
+    .row
       p Ahora, los registros del sistema son evidencia de las tareas realizadas en el Sistema de Gestión de la Calidad, y son la base para analizar el comportamiento y las mejoras de cada proceso de este sistema.
 
     .row.justify-content-center.my-5
-      .col-lg-5(data-aos="flip-left")
+      .col-lg-5.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema1/img12.svg', alt='')
       .col-lg-7
@@ -128,7 +128,7 @@
 
 
     .row.justify-content-center.my-5
-      .col-lg-8(data-aos="fade-down-right")
+      .col-lg-8.mb-4(data-aos="fade-down-right")
         TabsA.color-secundario
           .tarjeta.tarjeta--morada.p-4(titulo="Uso")
             p Un sistema de administración de contenido, con frecuencia puede ser accesible para una amplia gama de usuarios dentro de una organización, utilizando el contenido para realizar tareas de trabajo diarias o, por el contrario, no accediendo con tanta frecuencia, porque la empresa no utiliza los registros. Dado que los sistemas de gestión de documentos se utilizan cada vez más, una interfaz de usuario intuitiva es esencial.

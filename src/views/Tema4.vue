@@ -8,7 +8,7 @@
       h1 Mejora continua y planes de acción
 
     .row.justify-content-center.my-5
-      .col-lg-5(data-aos="fade-down-right")
+      .col-lg-5.mb-3(data-aos="fade-down-right")
         figure
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='')  
       
@@ -20,7 +20,7 @@
       p Acciones que se deben incluir:
 
     .row.justify-content-center.my-5
-      .col-lg-10
+      .col-10
         .row
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
             .tarjeta--boton.tarjeta-avatar3.p-4
@@ -57,7 +57,7 @@
       .col-lg-7
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row.justify-content-center
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema4/img5.svg', alt='')             
             
@@ -69,12 +69,12 @@
             .col-md-6.mb-4.mb-md-0.mt-3
               p Cuantificar y clarificar el problema.
 
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema4/img6.svg', alt='')
 
           .row.justify-content-center
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema4/img7.svg', alt='')             
             
@@ -86,12 +86,12 @@
             .col-md-6.mb-4.mb-md-0.mt-3
               p Establecimiento de metas.
 
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema4/img8.svg', alt='')
 
           .row.justify-content-center
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema4/img9.svg', alt='')             
             
@@ -103,12 +103,12 @@
             .col-md-6.mb-4.mb-md-0.mt-3
               p Implantación de soluciones y evaluación de resultados.
 
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema4/img10.svg', alt='')
 
           .row.justify-content-center
-            .col-md-2
+            .col-8.col-md-2
               figure
                 img(src='@/assets/curso/temas/tema4/img11.svg', alt='')             
             
@@ -125,8 +125,8 @@
 
     .row.justify-content-center.mt-5
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-        .row.p-4(titulo="Hoja de recopilación de datos")
-          .col-md-3
+        .row.justify-content-center.p-4(titulo="Hoja de recopilación de datos")
+          .col-8.col-md-3.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img12.svg', alt='')
         
@@ -146,16 +146,16 @@
                 i.fas.fa-angle-right
                 | Variación de las características de los productos.
 
-        .row.p-4(titulo="Diagrama de Pareto")
-          .col-md-3
+        .row.justify-content-center.p-4(titulo="Diagrama de Pareto")
+          .col-8.col-md-3.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img13.svg', alt='')
         
           .col-md-9.mb-4.mb-md-0
             p También conocido como curva cerrada o distribución, es una gráfica que permite organizar datos de tal forma que queden en orden descendente, de izquierda a derecha, separados por barras.
         
-        .row.p-4(titulo="Diagrama de dispersión")
-          .col-md-3
+        .row.justify-content-center.p-4(titulo="Diagrama de dispersión")
+          .col-8.col-md-3.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img14.svg', alt='')
         
@@ -175,8 +175,8 @@
                 i.fas.fa-angle-right
                 | Sin correlación: no existe relación alguna de influencia entre las dos variables.
 
-        .row.p-4(titulo="Diagrama causa – efecto")
-          .col-md-3
+        .row.justify-content-center.p-4(titulo="Diagrama causa – efecto")
+          .col-8.col-md-3.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img15.svg', alt='')
         
@@ -193,8 +193,8 @@
                 i.fas.fa-angle-right
                 | Variaciones en el método o procedimiento.
         
-        .row.p-4(titulo="Histograma")
-          .col-md-3
+        .row.justify-content-center.p-4(titulo="Histograma")
+          .col-8.col-md-3.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img16.svg', alt='')
         
@@ -214,8 +214,8 @@
                 i.fas.fa-angle-right
                 | Comparar la variabilidad con los límites de especificación.
 
-        .row.p-4(titulo="Estratificación")
-          .col-md-3
+        .row.justify-content-center.p-4(titulo="Estratificación")
+          .col-8.col-md-3.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img17.svg', alt='')
         
@@ -235,8 +235,8 @@
                 i.fas.fa-angle-right
                 | Material, producto, fecha de producción, grupo de trabajo, operador, proveedor, lote, etc.
         
-        .row.p-4(titulo="Gráficos de control")
-          .col-md-3
+        .row.justify-content-center.p-4(titulo="Gráficos de control")
+          .col-8.col-md-3.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img18.svg', alt='')
         
@@ -280,47 +280,49 @@
       p Por lo tanto, si la empresa decide crear un plan de acción para un programa o evento que desea implementar, debe tener en cuenta los siguientes pormenores: 
 
     .row.justify-content-center.my-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
-        .tarjeta--boton.tarjeta-avatar4.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema4/img20.svg', alt='Texto que describa la imagen')
+      .col-9.col-lg-12
+        .row.justify-content-center
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
+            .tarjeta--boton.tarjeta-avatar4.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/temas/tema4/img20.svg', alt='Texto que describa la imagen')
 
-          p.text-center.my-3 Quién será responsable de la gestión.
+              p.text-center.my-3 Quién será responsable de la gestión.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
-        .tarjeta--boton.tarjeta-avatar4.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema4/img21.svg', alt='Texto que describa la imagen')
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
+            .tarjeta--boton.tarjeta-avatar4.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/temas/tema4/img21.svg', alt='Texto que describa la imagen')
 
-          p.text-center.my-3 Indicar los plazos para completar cada paso.
+              p.text-center.my-3 Indicar los plazos para completar cada paso.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
-        .tarjeta--boton.tarjeta-avatar4.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema4/img22.svg', alt='Texto que describa la imagen')
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
+            .tarjeta--boton.tarjeta-avatar4.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/temas/tema4/img22.svg', alt='Texto que describa la imagen')
 
-          p.text-center.my-3 Adjuntar presupuesto del proveedor.
+              p.text-center.my-3 Adjuntar presupuesto del proveedor.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
-        .tarjeta--boton.tarjeta-avatar4.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema4/img23.svg', alt='Texto que describa la imagen')
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
+            .tarjeta--boton.tarjeta-avatar4.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/temas/tema4/img23.svg', alt='Texto que describa la imagen')
 
-          p.text-center.my-3 Establecer plazos para la toma de decisiones.
+              p.text-center.my-3 Establecer plazos para la toma de decisiones.
 
     .row.my-5
       p Es importante tener en cuenta que, aunque no existe una forma única para desarrollar un plan de acción, este se puede dividir en seis pasos principales que se deben completar, para que este sea idóneo.
 
     .row.justify-content-center.mt-5
-      .col-lg-6(data-aos="fade-right")
+      .col-lg-6.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img24.svg', alt='')
       .col-lg-6(data-aos="fade-left")
@@ -428,41 +430,43 @@
       p En la administración pública y privada, en su mapa de procesos, se pueden dimensionar cuatro macro procesos: 
 
     .row.justify-content-center.my-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
-        .tarjeta--boton.tarjeta-avatar4.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema4/img26.svg', alt='Texto que describa la imagen')
+      .col-9.col-lg-12
+        .row.justify-content-center
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
+            .tarjeta--boton.tarjeta-avatar4.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/temas/tema4/img26.svg', alt='Texto que describa la imagen')
 
-          p.text-center.my-3 Proceso estratégico.
+              p.text-center.my-3 Proceso estratégico.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
-        .tarjeta--boton.tarjeta-avatar4.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema4/img27.svg', alt='Texto que describa la imagen')
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
+            .tarjeta--boton.tarjeta-avatar4.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/temas/tema4/img27.svg', alt='Texto que describa la imagen')
 
-          p.text-center.my-3 Procesos misionales.
+              p.text-center.my-3 Procesos misionales.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
-        .tarjeta--boton.tarjeta-avatar4.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema4/img28.svg', alt='Texto que describa la imagen')
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
+            .tarjeta--boton.tarjeta-avatar4.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/temas/tema4/img28.svg', alt='Texto que describa la imagen')
 
-          p.text-center.my-3 Procesos de apoyo.
+              p.text-center.my-3 Procesos de apoyo.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
-        .tarjeta--boton.tarjeta-avatar4.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/temas/tema4/img29.svg', alt='Texto que describa la imagen')
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
+            .tarjeta--boton.tarjeta-avatar4.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/temas/tema4/img29.svg', alt='Texto que describa la imagen')
 
-          p.text-center.my-3 Procesos de control y evaluación.
+              p.text-center.my-3 Procesos de control y evaluación.
 
     .row.my-5
       p La medición de la satisfacción de las partes interesadas, se aplica a la misión y a los procesos de apoyo; comienza con el diseño de la herramienta para medir la satisfacción para su aplicación, y termina con el establecimiento y evaluación de las oportunidades de mejora, resultado del análisis de medición.
