@@ -134,16 +134,16 @@
             p Se diseña la hoja en forma de diagrama o de tabla y se recogen los datos indicando la frecuencia de observación, la cual sirve para identificar:
             ul.lista-ul--color
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Defectos de productos.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Causas de dichos defectos.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Clasificación de los productos defectuosos. 
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Variación de las características de los productos.
 
         .row.justify-content-center.p-4(titulo="Diagrama de Pareto")
@@ -163,16 +163,16 @@
             p Es de gran utilidad para la solución de problemas en un proceso, y permite comprobar qué factores están influyendo en la dispersión de una característica de calidad, la manera más común es:
             ul.lista-ul--color
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Correlación lineal positiva: al aumentar el valor de una variable, aumenta el de la otra.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Correlación lineal negativa: cuando aumenta una variable, la otra disminuye.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | De correlación no lineal: existe relación entre las dos variables, en forma de curva.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Sin correlación: no existe relación alguna de influencia entre las dos variables.
 
         .row.justify-content-center.p-4(titulo="Diagrama causa – efecto")
@@ -182,16 +182,29 @@
         
           .col-md-9.mb-4.mb-md-0
             p Es una herramienta que ayuda a estudiar todas las posibles causas que pueden producir variaciones en un proceso, y son las conocidas como las 6 V:
-            ul.lista-ul--color
-              li 
-                i.fas.fa-angle-right
-                | Variaciones en las máquinas o equipos.
-              li 
-                i.fas.fa-angle-right
-                | Variaciones en el material de entrada al proceso.
-              li 
-                i.fas.fa-angle-right
-                | Variaciones en el método o procedimiento.
+            .row.justify-content-center
+              .col-lg-6
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-angle-right.color-vineta1
+                    | Variaciones en las máquinas o equipos.
+                  li 
+                    i.fas.fa-angle-right.color-vineta1
+                    | Variaciones en el material de entrada al proceso.
+                  li 
+                    i.fas.fa-angle-right.color-vineta1
+                    | Variaciones en el método o procedimiento.
+              .col-lg-6
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-angle-right.color-vineta1
+                    | Variaciones en los operarios o mano obra.
+                  li 
+                    i.fas.fa-angle-right.color-vineta1
+                    | Variaciones en el medio ambiente.
+                  li 
+                    i.fas.fa-angle-right.color-vineta1
+                    | Variaciones en las medidas.
         
         .row.justify-content-center.p-4(titulo="Histograma")
           .col-8.col-md-3.mb-3
@@ -202,16 +215,16 @@
             p Consiste en la presentación de una serie de medidas clasificadas y ordenadas en filas y columnas. El histograma se usa para:
             ul.lista-ul--color
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Obtener una comunicación clara y efectiva de la variabilidad del sistema.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Mostrar el resultado de un cambio en el sistema.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Identificar anormalidades, examinando la forma.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Comparar la variabilidad con los límites de especificación.
 
         .row.justify-content-center.p-4(titulo="Estratificación")
@@ -223,16 +236,16 @@
             p Permite clasificar la información recopilada sobre una característica de calidad. Los criterios para la estratificación son:
             ul.lista-ul--color
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Tipo de defecto.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Causa y efecto.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Localización del efecto.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Material, producto, fecha de producción, grupo de trabajo, operador, proveedor, lote, etc.
         
         .row.justify-content-center.p-4(titulo="Gráficos de control")
@@ -244,15 +257,15 @@
             p Se refiere a monitorizar el proceso que se esté analizando para controlar su buen funcionamiento y detectar, rápidamente, cualquier anomalía. Existen dos tipos de gráficos de control:
             ul.lista-ul--color
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Gráficos de control por variables.
               li 
-                i.fas.fa-angle-right
+                i.fas.fa-angle-right.color-vineta1
                 | Gráficos de control por atributos.
 
     .row.my-5
       p Ahora se hablará sobre las técnicas correctivas, la cuales son oportunidades de mejora cada vez que la organización pueda permitir identificar las causas que las generan; a través del ejercicio de seguimiento y la verificación de las acciones tomadas, se emplean herramientas para que la entidad planee, ejecute, verifique o controle sus actividades y procesos, para una mejora continua. 
-
+      p.mt-3 En este punto es necesario tener presentes los siguientes pasos:
     .row.justify-content-center.my-5
       .col-lg-5.mb-5(data-aos="fade-up-right")
         figure
@@ -320,6 +333,7 @@
 
     .row.my-5
       p Es importante tener en cuenta que, aunque no existe una forma única para desarrollar un plan de acción, este se puede dividir en seis pasos principales que se deben completar, para que este sea idóneo.
+      p.mt-3 Dichos pasos son:
 
     .row.justify-content-center.mt-5
       .col-lg-6.mb-4(data-aos="fade-right")

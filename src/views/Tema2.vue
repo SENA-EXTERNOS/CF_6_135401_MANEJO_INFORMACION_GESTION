@@ -17,7 +17,7 @@
             p.mb-0 La comunicación organizacional se refiere al envío y recepción de información entre individuos interrelacionados o que forman parte de alguna forma de organización; se establece en todas las instituciones y hace parte de la cultura corporativa; está documentada y organizada por medio de un plan de comunicaciones y, a partir de ella, se puede dar entre todos los niveles jerárquicos de la empresa, de manera fluida y efectiva. También considera instaurar dinámicas de colaboración, de combinación y de avance conjunto, dirigidas a los objetivos, o sea que sirve para la gestión de la organización y la integración de sus distintos elementos, para crear efecto en la productividad y la calidad.
 
     .row.my-3
-      p La guía deberá contemplar aspectos como:
+      p Por lo general, pueden existir dos tipos de comunicación organizacional:
 
     .row.justify-content-center.my-5
       .col-lg-5.mb-5(data-aos="fade-up-right")
@@ -169,7 +169,7 @@
       p De igual manera, en la parte externa se deben analizar cada uno de los elementos de comunicación que la organización direcciona, identifica y considera de su pertinencia y efectividad, así mismo, de sus necesidades o falencias.
 
     .row.my-5
-      p Algunos aspectos internos para analizar son:
+      p Algunos aspectos externos para analizar son:
 
     .row.justify-content-center.my-5
       .col-lg-5.mb-3
@@ -247,8 +247,8 @@
           .bloque-texto-g__texto.p-3
             p De acuerdo con Tur-Viñes, V. y Monserrat-Gauchi, J. (2014), la finalidad de esta etapa es concretar en planes de acción, ejecutables y acotados en el tiempo, las estrategias planteadas con anterioridad. Una estrategia puede concretarse en diferentes planes de acción y, a su vez, un plan de acción puede formar parte de diferentes estrategias y contribuir a la consecución de varios objetivos. Se ha de determinar un plan de comunicación y su concreción en acciones o campañas concretas de publicidad, relaciones públicas, comunicación #[i on-line], #[i marketing] directo, campañas promocionales, publicidad directa, de esponsorización y/o de patrocinio, branded content, etc. Todo ello encaminado a conseguir los objetivos de comunicación previamente definidos. (p. 13).
 
-    .row.justify-content-center.mt-5
-      .col-lg-10(data-aos="fade-up")
+    .row.justify-content-center.my-5
+      .col-lg-10(data-aos="fade-down")
         .cajon.color-secundario.p-4
           p Una vez definidos los objetivos para cada grupo de interés e identificadas las estrategias o acciones que se van a desarrollar en el periodo determinado, se deben identificar sus respectivos responsables, niveles de prioridad, cronograma y recursos necesarios. 
 

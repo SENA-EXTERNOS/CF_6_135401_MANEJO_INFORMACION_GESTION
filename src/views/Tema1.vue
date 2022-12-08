@@ -38,7 +38,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img3.svg', alt='Texto que describa la imagen')
 
-              p.text-center.my-3 Proporcionar un marco claro para las operaciones de la organización. Permitir la consistencia de los procesos y una mejor comprensión de la gestión de la calidad del sistema de gestión.
+              p.text-center.my-3 Permitir la consistencia de los procesos y una mejor comprensión de la gestión de la calidad del sistema de gestión.
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             .tarjeta--boton.tarjeta-avatar.p-4
@@ -58,7 +58,10 @@
           p En esa documentación, se encuentran los informes de gestión, en los cuales es posible identificar fallas y oportunidades, y de allí derivar nuevas estrategias para la empresa. Sin embargo, vale la pena mencionar que es importante saber cómo interpretar los datos, para que realmente brinden información importante para el negocio. 
         .row
           .cajon.color-acento-botones.p-4
-            p Existen los informes automatizados, los cuales son un gran recurso analítico, además de proporcionar una gran cantidad de datos; por lo tanto, al elegir un software de generación automática de informes, la empresa solo se preocupa por el procesamiento y análisis de datos, no por la recopilación de información, lo cual puede ser una ventaja.
+            p Existen los informes automatizados, los cuales son un gran recurso analítico, además de proporcionar una gran cantidad de datos; por lo tanto, al elegir un #[i software] de generación automática de informes, la empresa solo se preocupa por el procesamiento y análisis de datos, no por la recopilación de información, lo cual puede ser una ventaja.
+
+    .row
+      p Algunos ejemplos de tipos de informes son:
 
       .row.justify-content-center.my-5
         .col-lg-6
@@ -124,7 +127,7 @@
         p En una organización, se pueden aplicar varios tipos de registros para la comunicación en los diferentes procesos, y a esto se le llama gestión de registros.
 
     .row.my-5
-      p En la implementación de un sistema de gestión, las empresas deben tener en cuenta los siguientes ítems al trabajar con un software que les ayude con el manejo y gestión de sus datos.
+      p En la implementación de un sistema de gestión, las empresas deben tener en cuenta los siguientes ítems al trabajar con un #[i software] que les ayude con el manejo y gestión de sus datos.
 
 
     .row.justify-content-center.my-5
@@ -179,7 +182,7 @@
 
         .tarjeta.estilo-cajon.p-2(x="50%" y="7%" numero="3")
           h5.mb-2 Gráfico de dispersión
-          p Es una herramienta de control y apoyo para verificar la existencia de una correlación entre dos variables cuantitativas. El eje X representa la variable independiente, mientras que el eje Y representa la variable dependiente. La correlación es positiva si ambas variables van en el mismo sentido, o sea que, si X aumenta o disminuye, Y igualmente aumenta o disminuye; la correlación es negativa o inversa cuando una variable se comporta de forma contraria o a la otra, es decir que, si una variable aumenta, la otra disminuye.
+          p Es una herramienta de control y apoyo para verificar la existencia de una correlación entre dos variables cuantitativas. El eje X representa la variable independiente, mientras que el eje Y representa la variable dependiente. La correlación es positiva si ambas variables van en el mismo sentido, o sea que, si X aumenta o disminuye, e igualmente aumenta o disminuye; la correlación es negativa o inversa cuando una variable se comporta de forma contraria o a la otra, es decir que, si una variable aumenta, la otra disminuye.
 
         .tarjeta.estilo-cajon.p-2(x="75%" y="20%" numero="4")
           .h5.mb-2 Gráfico de líneas
