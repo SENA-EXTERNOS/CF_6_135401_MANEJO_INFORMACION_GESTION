@@ -97,19 +97,20 @@
             p Este plan busca estructurar o establecer una organización formal y preparada para las comunicaciones que se producen dentro de ella, bien sean de carácter interno o externo, con el fin de estandarizar los procesos de comunicación y evitar la pérdida de información, recursos y tiempo.
  
     .row.justify-content-center.my-5
-      .col-lg-9
-        .bloque-texto-g.color-secundario.p-3(data-aos="fade-right")
-          .bloque-texto-g2__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img6.svg')})`}"
-          )
-          .bloque-texto-g__texto.p-3
-            ul.lista-ul--color
-              li 
-                i.fas.fa-angle-right.color-vineta2
-                | Análisis del entorno interno y externo.
-              li 
-                i.fas.fa-angle-right.color-vineta2
-                | Determinación de los objetivos de comunicación.
+      .col-lg-10
+        .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5.bloque-texto-a-recuadro
+          .row.m-0.align-items-center.justify-content-between
+            .col-lg-4.mb-4.mb-lg-0
+              h3.mb-0 El plan de comunicación se debe desarrollar a través de los siguientes pasos:
+            .col-lg-8
+              .bloque-texto-a__texto.p-4
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-angle-right.color-vineta2
+                    | Análisis del entorno interno y externo.
+                  li 
+                    i.fas.fa-angle-right.color-vineta2
+                    | Determinación de los objetivos de comunicación.
 
     .row.justify-content-center.my-5
           ul.vineta-titulos(data-aos="fade-down-left")
@@ -251,8 +252,6 @@
       .col-lg-10(data-aos="fade-down")
         .cajon.color-secundario.p-4
           p Una vez definidos los objetivos para cada grupo de interés e identificadas las estrategias o acciones que se van a desarrollar en el periodo determinado, se deben identificar sus respectivos responsables, niveles de prioridad, cronograma y recursos necesarios. 
-
-
 
 
 
