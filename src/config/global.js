@@ -115,7 +115,7 @@ export default {
     {
       tema: 'La comunicación organizacional',
       referencia:
-        'Caja de herramientas comunitarias. (s.f.). Sección 1. <i>Crear un plan para la comunicación.</i>',
+        'Caja de herramientas comunitarias. (s.f.). <i>Sección 1. Crear un plan para la comunicación.</i>',
       tipo: 'Página web',
       link:
         'https://ctb.ku.edu/es/tabla-de-contenidos/participacion/promover-interes-en-la-comunidad/plan-de-comunicacion/principal ',
@@ -131,7 +131,7 @@ export default {
     {
       tema: 'Mejora continua y planes de acción',
       referencia:
-        'Academia ISO. (2022). Norma ISO 9001:2015 Herramientas de Mejora Continua Implementación del Plan de Acciones Seguimiento (video). YouTube.',
+        'Academia ISO. (2022). <i>Norma ISO 9001:2015 Herramientas de Mejora Continua Implementación del Plan de Acciones Seguimiento</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ffC9vYOzxDc ',
     },
