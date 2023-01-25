@@ -19,7 +19,7 @@
             p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde conocerá que la implementación de un sistema de gestión permite el establecimiento de políticas y objetivos de calidad, la identificación de las necesidades y expectativas del cliente, la introducción de métodos eficientes y efectivos y la identificación de procesos, lo que permite a una organización, alcanzar los objetivos de calidad.
 
     .row.my-5
-      p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+      p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
 
     .row.mt-5(data-aos="fade-zoom")
       figure

@@ -53,10 +53,10 @@
             p Permite la identificación de aquellos productos y servicios de la empresa. Determina los límites y la aplicabilidad del sistema de gestión, para establecer su alcance.
 
           .tarjeta.estilo-cajon.p-2(x="37%" y="1%" numero="4")
-            p El proceso es un conjunto de actividades orientadas para cumplir un objetivo general, y el procedimiento es el modo más específico de realizar las actividades en la organización.
+            p El proceso es un conjunto de actividades orientadas para cumplir un objetivo general y el procedimiento es el modo más específico de realizar las actividades en la organización.
 
           .tarjeta.estilo-cajon.p-2(x="62%" y="1%" numero="5")
-            p Para alcanzar las 3E (eficiencia, efectividad y economía) en una organización, se definen los siguientes pasos en la implementación de procedimientos: estudiar los requisitos, tomar en cuenta los resultados de su evaluación de riesgos, optimizar y alinear sus documentos, estructurar y redactar el documento, conseguir la aprobación del documento. 
+            p Para alcanzar las 3 E (<b>eficiencia</b>, <b>efectividad</b> y <b>economía</b>) en una organización, se definen los siguientes pasos en la implementación de procedimientos: estudiar los requisitos, tomar en cuenta los resultados de su evaluación de riesgos, optimizar y alinear sus documentos, estructurar y redactar el documento, conseguir la aprobación del documento. 
 
           .tarjeta.estilo-cajon.p-2(x="62%" y="99%" numero="6")
             p La capacitación es el proceso educativo de corto plazo, aplicado de manera sistemática y organizada, por medio del cual las personas adquieren conocimientos; la sensibilización es un proceso que tiene como objetivo principal, impactar sobre el comportamiento de una población.
@@ -68,7 +68,7 @@
             p Es un sistema de control interno basado en un paquete de medidas de control y orientación hacia la calidad. 
 
     .row.my-5
-      p Ahora, en cuanto a los criterios de revisión de hallazgos, se refiere a la información solicitada, a juicio del auditor, que le permite recoger e identificar acontecimientos convenientes que puedan alcanzar en el sistema de gestión de la empresa, a través de una verificación exhaustiva y que se puede explicar en el informe. Lo que se expone en un proceso auditor como el hallazgo de una no conformidad permite oportunidades de mejora en la organización. 
+      p En cuanto a los criterios de revisión de hallazgos, se refiere a la información solicitada, a juicio del auditor, que le permite recoger e identificar acontecimientos convenientes que puedan alcanzar en el sistema de gestión de la empresa, a través de una verificación exhaustiva y que se puede explicar en el informe. Lo que se expone en un proceso auditor como el hallazgo de una no conformidad, permite oportunidades de mejora en la organización. 
 
     .row.justify-content-center.mt-5
       .col-lg-8(data-aos="flip-up")

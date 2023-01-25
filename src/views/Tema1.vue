@@ -14,10 +14,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.svg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Se da inicio indicando que el diseño de la documentación del Sistema de Gestión de la Calidad, debe centrarse en la eficiencia y en la creación de procesos y documentos que sean aplicables a la organización.
+            p.mb-0 El diseño de la documentación del Sistema de Gestión de la Calidad, debe centrarse en la eficiencia y en la creación de procesos y documentos que sean aplicables a la organización.
 
     .row.my-3
-      p Y entre los propósitos y beneficios de estos documentos, se debe tener en cuenta:
+      p Entre los propósitos y beneficios de estos documentos, se debe tener en cuenta:
 
     .row.justify-content-center.my-5
       .col-10.col-lg-10
@@ -55,7 +55,7 @@
           img(src='@/assets/curso/temas/tema1/img5.svg', alt='')
       .col-lg-7
         .row
-          p En esa documentación, se encuentran los informes de gestión, en los cuales es posible identificar fallas y oportunidades, y de allí derivar nuevas estrategias para la empresa. Sin embargo, vale la pena mencionar que es importante saber cómo interpretar los datos, para que realmente brinden información importante para el negocio. 
+          p En esa documentación se encuentran los informes de gestión, en los cuales es posible identificar fallas y oportunidades y de allí derivar nuevas estrategias para la empresa. Es importante saber cómo interpretar los datos para que, realmente, brinden información importante para el negocio.  
         .row
           .cajon.color-acento-botones.p-4
             p Existen los informes automatizados, los cuales son un gran recurso analítico, además de proporcionar una gran cantidad de datos; por lo tanto, al elegir un #[i software] de generación automática de informes, la empresa solo se preocupa por el procesamiento y análisis de datos, no por la recopilación de información, lo cual puede ser una ventaja.
@@ -115,19 +115,19 @@
             img(src="@/assets/curso/temas/tema1/img11.svg", alt="alt")          
 
     .row
-      p Ahora, los registros del sistema son evidencia de las tareas realizadas en el Sistema de Gestión de la Calidad, y son la base para analizar el comportamiento y las mejoras de cada proceso de este sistema.
+      p Los registros del sistema, son evidencia de las tareas realizadas en el Sistema de Gestión de la Calidad y son la base para analizar el comportamiento y las mejoras de cada proceso de este sistema.
 
     .row.justify-content-center.my-5
       .col-lg-5.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema1/img12.svg', alt='')
       .col-lg-7
-        p Mientras los documentos están sujetos a cambio, los registros mencionan cómo se ha llevado a cabo la actividad, son parte de la evidencia de las actividades desarrolladas y no permiten cambios.
-        p Por otra parte, los datos que se gestionan en la organización, determinan el tipo de registro, y se pueden asociar con algoritmos específicos, diseñados para cumplir con los requisitos de los datos.
-        p En una organización, se pueden aplicar varios tipos de registros para la comunicación en los diferentes procesos, y a esto se le llama gestión de registros.
+        p Mientras los documentos están sujetos a cambio, los registros mencionan cómo se ha llevado a cabo la actividad y son parte de la evidencia de las actividades desarrolladas y no permiten cambios.
+        p Por otra parte, los datos que se gestionan en la organización, determinan el tipo de registro y se pueden asociar con algoritmos específicos, diseñados para cumplir con los requisitos de los datos.
+        p En una organización, se pueden aplicar varios tipos de registros para la comunicación en los diferentes procesos y a esto se le llama gestión de registros.
 
     .row.my-5
-      p En la implementación de un sistema de gestión, las empresas deben tener en cuenta los siguientes ítems al trabajar con un #[i software] que les ayude con el manejo y gestión de sus datos.
+      p En la implementación de un sistema de gestión, las empresas deben tener en cuenta los siguientes ítems al trabajar con un <i>software </i>que les ayude con el manejo y gestión de sus datos:
 
 
     .row.justify-content-center.my-5
@@ -150,7 +150,7 @@
           img(src='@/assets/curso/temas/tema1/img13.svg', alt='')        
 
     .row.my-5
-      p Normalmente, existen algunos documentos de conservación total, como los libros de los programas, las actas de algunos comités y varios de ellos son permanentes máximo por cinco años; hay algunos temas, sobre todo en las notas, controles temáticos, como acompañamientos que no se crean, sino que se guardan para la gestión general de la organización.
+      p Normalmente, existen algunos documentos de conservación total, como los libros de los programas, las actas de algunos comités y varios de ellos son permanentes, máximo por cinco años; hay algunos temas, sobre todo en las notas, controles temáticos, como acompañamientos que no se crean, sino que se guardan para la gestión general de la organización.
 
     .row.justify-content-center.mt-5
           ul.vineta-titulos(data-aos="fade-down-right")

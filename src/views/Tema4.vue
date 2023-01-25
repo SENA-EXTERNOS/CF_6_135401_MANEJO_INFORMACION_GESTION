@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='')  
       
       .col-lg-7
-        p Toda organización debe tener en cuenta los resultados del análisis y la verificación o evaluación, y las salidas de la revisión por la dirección, para determinar si hay necesidades u oportunidades que deben considerarse como parte de la mejora continua.
+        p Toda organización debe tener en cuenta los resultados del análisis y la verificación o evaluación y las salidas de la revisión por la dirección, para determinar si hay necesidades u oportunidades que deben considerarse como parte de la mejora continua.
         p La empresa debe determinar y elegir las oportunidades de mejora y ejecutar cualquier acción necesaria para cumplir los requisitos del cliente y aumentar su satisfacción.
 
     .row.my-5
@@ -29,7 +29,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema4/img2.svg', alt='Texto que describa la imagen')
 
-              p.text-center.my-3 Mejorar los productos y servicios para dar cumplimiento a los requisitos de la norma, y considerar las necesidades y expectativas futuras.
+              p.text-center.my-3 Mejorar los productos y servicios para dar cumplimiento a los requisitos de la norma y considerar las necesidades y expectativas futuras.
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
             .tarjeta--boton.tarjeta-avatar3.p-4
@@ -160,7 +160,7 @@
               img(src='@/assets/curso/temas/tema4/img14.svg', alt='')
         
           .col-md-9.mb-4.mb-md-0
-            p Es de gran utilidad para la solución de problemas en un proceso, y permite comprobar qué factores están influyendo en la dispersión de una característica de calidad, la manera más común es:
+            p Es de gran utilidad para la solución de problemas en un proceso y permite comprobar qué factores están influyendo en la dispersión de una característica de calidad; la manera más común es:
             ul.lista-ul--color
               li 
                 i.fas.fa-angle-right.color-vineta1
@@ -181,7 +181,7 @@
               img(src='@/assets/curso/temas/tema4/img15.svg', alt='')
         
           .col-md-9.mb-4.mb-md-0
-            p Es una herramienta que ayuda a estudiar todas las posibles causas que pueden producir variaciones en un proceso, y son las conocidas como las 6 V:
+            p Es una herramienta que ayuda a estudiar todas las posibles causas que pueden producir variaciones en un proceso y son conocidas como las 6 V:
             .row.justify-content-center
               .col-lg-6
                 ul.lista-ul--color
@@ -264,7 +264,7 @@
                 | Gráficos de control por atributos.
 
     .row.my-5
-      p Ahora se hablará sobre las técnicas correctivas, la cuales son oportunidades de mejora cada vez que la organización pueda permitir identificar las causas que las generan; a través del ejercicio de seguimiento y la verificación de las acciones tomadas, se emplean herramientas para que la entidad planee, ejecute, verifique o controle sus actividades y procesos, para una mejora continua. 
+      p Las <b>técnicas correctivas</b> son oportunidades de mejora, cada vez que la organización pueda permitir identificar las causas que las generan; a través del ejercicio de seguimiento y la verificación de las acciones tomadas, se emplean herramientas para que la entidad planee, ejecute, verifique o controle sus actividades y procesos, para una mejora continua.  
       p.mt-3 En este punto es necesario tener presentes los siguientes pasos:
     .row.justify-content-center.my-5
       .col-lg-5.mb-5(data-aos="fade-up-right")
@@ -415,7 +415,7 @@
                   | Analizar el sistema de gestión.
 
     .row.my-5
-      p Y para conocer el seguimiento al cumplimiento de los planes de acción para el sistema de gestión, lo invitamos a ver el siguiente video.
+      p Para conocer el seguimiento al cumplimiento de los planes de acción para el sistema de gestión, lo invitamos a ver el siguiente video:
 
     .row.mt-5(data-aos="zoom-in-up")
       figure
@@ -488,7 +488,7 @@
     .row.justify-content-center.mt-5
       .col-lg-10(data-aos="flip-up")
         .cajon.color-acento-botones.p-4
-          p Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+          p.mb-0 Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

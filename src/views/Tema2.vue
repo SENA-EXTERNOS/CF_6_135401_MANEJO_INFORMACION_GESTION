@@ -40,11 +40,10 @@
     .row.justify-content-center.my-5
       .col-lg-10(data-aos="flip-down")
         .cajon.color-secundario.p-4
-          p La comunicación interna hace mención a toda la información que se genera, manipula o se utiliza dentro de la organización; es considerada como una herramienta gerencial aplicada en los niveles jerárquicos con el propósito de alcanzar todos los objetivos estratégicos, misionales, operativos, culturales y comportamentales de la empresa. Su desarrollo se da de acuerdo con la aplicación del “Proceso de comunicación organizacional formal”, como se presenta en la Figura 1:
-
+          p.mb-0 La comunicación interna hace mención a toda la información que se genera, manipula o se utiliza dentro de la organización; es considerada como una herramienta gerencial aplicada en los niveles jerárquicos con el propósito de alcanzar todos los objetivos estratégicos, misionales, operativos, culturales y comportamentales de la empresa. 
+    p.mb-5 Su desarrollo se da de acuerdo con la aplicación del “Proceso de comunicación organizacional formal”, como se presenta en la siguiente figura:
     .titulo-sexto.color-acento-botones.mb-3
-      h5 Figura 1.
-      span #[i Proceso de comunicación organizacional formal]
+      p.mb-0 <b>Figura 1</b><br><i>Proceso de comunicación organizacional formal</i>
 
     .row.my-5(data-aos="zoom-in-up")
       figure
@@ -78,7 +77,7 @@
                 | Promover la buena comunicación entre todos los participantes y niveles de la empresa.
                     
     .row.my-3
-      p La comunicación externa se conoce con el nombre de “comunicación comercial” y hace referencia a todo el intercambio o flujo de información que manipula la organización; está destinada para los públicos externos, sea de manera directa o a través de intermediarios, con el objetivo de mantener o mejorar sus relaciones corporativas, proyectar una imagen corporativa favorable y promover los productos o servicios; se refiere a los movimientos que la organización dirige hacia los agentes externos, consumidores y proveedores, inversores o sociedad, con el objetivo de generar, o reforzar las relaciones entre la compañía y los diferentes públicos.
+      p La comunicación externa se conoce con el nombre de “<b>comunicación comercial</b>” y hace referencia a todo el intercambio o flujo de información que manipula la organización; está destinada para los públicos externos, sea de manera directa o a través de intermediarios, con el objetivo de mantener o mejorar sus relaciones corporativas, proyectar una imagen corporativa favorable y promover los productos o servicios; se refiere a los movimientos que la organización dirige hacia los agentes externos, consumidores y proveedores, inversores o sociedad, con el objetivo de generar, o reforzar las relaciones entre la compañía y los diferentes públicos.
 
     .row.justify-content-center.mt-5
           ul.vineta-titulos(data-aos="fade-down-left")
@@ -232,7 +231,7 @@
           img(src='@/assets/curso/temas/tema2/img15.svg', alt='')  
       
       .col-lg-7
-        p La estimación de estrategias debe ir de la mano con dos elementos: primero, debe ser coherente con los objetivos planteados y segundo, debe estar en sintonía con las estrategias establecidas en el nivel estratégico, es decir, las estrategias de comunicación deben ser una extensión del plan estratégico general. Esta estrategia debe garantizar la cobertura de todos los grupos de interés, involucrados en cada objetivo.
+        p La estimación de estrategias debe ir de la mano con dos elementos: primero, debe ser coherente con los objetivos planteados y, segundo, debe estar en sintonía con las estrategias establecidas en el nivel estratégico, es decir, las estrategias de comunicación deben ser una extensión del plan estratégico general. Esta estrategia debe garantizar la cobertura de todos los grupos de interés involucrados en cada objetivo. 
 
     .row.justify-content-center.mt-5
           ul.vineta-titulos(data-aos="fade-down-left")
