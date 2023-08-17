@@ -132,17 +132,17 @@
 
     .row.justify-content-center.my-5
       .col-lg-8.mb-4(data-aos="fade-down-right")
-        TabsA.color-secundario
-          .tarjeta.tarjeta--morada.p-4(titulo="Uso")
+        TabsC.color-secundario
+          .tarjeta.tarjeta--morada.p-4.mb-3(titulo="Uso")
             p Un sistema de administración de contenido, con frecuencia puede ser accesible para una amplia gama de usuarios dentro de una organización, utilizando el contenido para realizar tareas de trabajo diarias o, por el contrario, no accediendo con tanta frecuencia, porque la empresa no utiliza los registros. Dado que los sistemas de gestión de documentos se utilizan cada vez más, una interfaz de usuario intuitiva es esencial.
 
-          .tarjeta.tarjeta--morada.p-4(titulo="Facilidad de búsqueda")
+          .tarjeta.tarjeta--morada.p-4.mb-3(titulo="Facilidad de búsqueda")
             p Una parte clave de un sistema de administración de contenido, es la capacidad de los usuarios para crear, importar, acceder e informar sobre el contenido. Por lo tanto, el sistema debe incluir una interfaz de búsqueda fácil de usar.
 
-          .tarjeta.tarjeta--morada.p-4(titulo="Amplia población de solo lectura")
+          .tarjeta.tarjeta--morada.p-4.mb-3(titulo="Amplia población de solo lectura")
             p Los sistemas de administración de documentos permiten a los autores acceder para crear documentos, ejecutar flujos de trabajo, ver documentos, etc. Por otro lado, para reducir la carga del sistema, es útil que un sistema de administración de documentos también ofrezca acceso de solo lectura, a los usuarios que no necesitan crear o revisar contenido.
 
-          .tarjeta.tarjeta--morada.p-4(titulo="Flujo de trabajo electrónico")
+          .tarjeta.tarjeta--morada.p-4.mb-3(titulo="Flujo de trabajo electrónico")
             p Un flujo de trabajo digital es esencial para mantener la eficiencia porque los sistemas de gestión de documentos pueden requerir actualizaciones y reaprobaciones frecuentes, en un momento específico.
 
       .col-lg-4(data-aos="fade-down-left")

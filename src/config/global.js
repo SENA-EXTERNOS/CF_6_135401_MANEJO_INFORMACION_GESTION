@@ -120,14 +120,14 @@ export default {
       link:
         'https://ctb.ku.edu/es/tabla-de-contenidos/participacion/promover-interes-en-la-comunidad/plan-de-comunicacion/principal ',
     },
-    /*{
+    {
       tema: 'Mejora continua y planes de acción',
       referencia:
         'Norma internacional ISO 9001. (2015). <i>Sistemas de gestión de la calidad – Requisitos.</i>',
       tipo: 'PDF',
       link:
-        'http://www.itvalledelguadiana.edu.mx/ftp/Normas%20ISO/ISO%209001-2015%20Sistemas%20de%20Gesti%C3%B3n%20de%20la%20Calidad.pdf ',
-    },*/
+        'https://www.forpo.gov.co/es/planeacion-gestion-y-control/control-interno-1/normatividad-2/5159-norma-iso-9001-2015/file',
+    },
     {
       tema: 'Mejora continua y planes de acción',
       referencia:
